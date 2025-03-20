@@ -781,6 +781,7 @@ ss3-force-full-width {
   position: relative;
   box-sizing: border-box;
   display: flex;
+  justify-content: flex-start !important;
   visibility: hidden;
   width: 100%;
 }
